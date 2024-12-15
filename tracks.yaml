@@ -1,3 +1,4 @@
+release_repo_url: git@github.com:revyos-ros/axis_camera-release.git
 tracks:
   humble:
     actions:
